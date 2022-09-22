@@ -2,3 +2,7 @@
 __pycache__/
 # ignore .pyc files
 .pyc
+# ignore notes file
+useful_notes.txt
+euler
+unfinished_levels/
